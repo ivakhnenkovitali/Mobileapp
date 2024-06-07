@@ -26,9 +26,7 @@
     n.default = e;
     return Object.freeze(n);
   }
-
   const Popper__namespace = /*#__PURE__*/_interopNamespace(Popper);
-
   /**
    * --------------------------------------------------------------------------
    * Bootstrap (v5.1.3): util/index.js
@@ -43,7 +41,6 @@
     if (obj === null || obj === undefined) {
       return `${obj}`;
     }
-
     return {}.toString.call(obj).match(/\s([a-z]+)/i)[1].toLowerCase();
   };
   /**
@@ -51,7 +48,6 @@
    * Public Util Api
    * --------------------------------------------------------------------------
    */
-
 
   const getUID = prefix => {
     do {
