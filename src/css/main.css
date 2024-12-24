@@ -1,0 +1,190 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+	/*font-family: 'Raleway', sans-serif;*/
+}
+.header{
+	padding: 30px;
+	height: 750px;
+	background: url(../image/bg.png)center center;
+	background-size: cover;
+}
+.a{
+	color: #7e7c7e !important;
+	font-size: 14px;
+	font-weight: 700;
+}
+.a:hover{
+	color: #282528 !important;
+}
+.a_sel{
+	color: #282528 !important;
+	font-size: 14px;
+	font-weight: 700;
+}
+.logo{
+	color: #1ab798 !important;
+	font-size: 30px;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 900;
+}
+.white{
+	color: white;
+}
+h1{
+	font-size: 42px;
+	padding-top: 150px;
+	font-family: 'Raleway', sans-serif;
+	font-weight: 900;
+}
+.p20{
+	font-size: 20px;
+}
+
+.my_ul{
+	padding-left: 15px;
+	font-size: 15px;
+	list-style-image: url(../image/arrow.png);
+}
+.head_image{
+	padding-top: 100px;
+}
+@media (max-width: 768px){ 
+	.no_phone{
+		display: none;
+	}
+}
+
+.head_button{
+	border-radius: 4px;
+	background: #17d0ac;
+	border: none;
+	padding: 10px 25px;
+	font-size: 20px;
+	font-weight: 700;
+}
+.head_button:hover{
+	box-shadow: 0px 0px 4px 4px rgba(255,255,255,0.3);
+}
+p{
+	font-size: 15px;
+	color: #282528;
+}
+h2{
+	font-size: 28px;
+	color: #17d0ac;
+	text-transform: uppercase;
+	font-weight: 900;
+}
+h3{
+	font-size: 20px;
+	color: #282528;
+	font-weight: 900;
+}
+.mt120{
+	margin-top: 120px;
+}
+.h200{
+	height: 200px;
+}
+.m_corr{
+	margin-top: 100px;
+}
+.video{
+	min-height: 450px;
+	padding: 75px 0px;
+	background: #31d4e7;
+}
+.galery{
+	padding-top: 70px;
+    padding-bottom: 70px;
+	min-height: 70px;
+}
+.contact{
+	padding-top: 70px;
+	height: 670px;
+	background: url(../image/bg2.png)center center;
+	background-size: cover;
+}
+.input{
+	width: 100%;
+	border-radius: 3px;
+	border: none;
+	outline: none;
+	margin: 15px 0px;
+	padding: 15px 20px;
+}
+.h180{
+	height: 180px;
+}
+.isub{
+	padding: 13px 44px;
+	border-radius: 3px;
+	background: #31d4e7;
+	color: white;
+	border: none;
+	font-weight: 900;
+	font-size: 22px;
+}
+.foot{
+	min-height: 80px;
+	border-top: 1px solid #4d4d4d;
+	margin-top: 100px;
+}
+
+.my_img{
+
+width: 100%; 
+height: 350px; 
+object-fit: cover;
+
+}	
+
+/*.img1{
+
+	height: 350px;
+	width: 350px;
+	background: url(../image/img1.png)center center no-repeat ;
+	background-size: cover;
+
+}
+
+
+/*.img2{
+
+	height: 350px;
+	width: 350px;
+	background: url(../image/img2.png)center center no-repeat ;
+	background-size: cover;   
+
+	 /*Значение background-size 
+	позволяет задавать размер фонового изображения.
+	 Изображение может 
+	быть оставлено в исходном размере, растянуто, 
+	или подогнано под размеры доступного пространства.*/
+
+}
+.img3{
+
+	height: 450px;
+	width: 350px;
+	background: url(../image/img3.png)center center no-repeat;
+   background-size: cover;
+
+}
+.img4{
+
+	height: 450px;
+	width: 350px;
+	background: url(../image/img4.png)center center no-repeat ;
+	background-size: cover;
+
+}
+
+.c-button {
+ webkit-appearance: none;
+ moz-appearance: none;
+ appearance: none;
+ border: 0;
+ border-radius: 0;
+ background: #ccc;
+}
