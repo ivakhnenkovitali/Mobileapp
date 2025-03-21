@@ -251,7 +251,6 @@ samp {
   direction: ltr /* rtl:ignore */;
   unicode-bidi: bidi-override;
 }
-
 pre {
   display: block;
   margin-top: 0;
