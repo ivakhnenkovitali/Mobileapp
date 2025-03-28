@@ -1,10 +1,13 @@
 
 ___________________________________________________________________
 _______________________________________________________________
+Die Seite ist ein vollwertiges Landingpage für eine mobile App mit den Hauptelementen: Produktbeschreibung, Vorteile, Funktionsdemonstration, Galerie und Feedback-Formular.
 
 Страница представляет собой полноценный лендинг для мобильного приложения с основными элементами: описание продукта, преимущества, демонстрация работы, галерея и форма обратной связи.
 
+Старонка ўяўляе сабой поўнавартасны лэндынг для мабільнага дадатку з асноўнымі элементамі: апісанне прадукту, перавагі, дэманстрацыя працы, галерэя і форма зваротнай сувязі.
 
+The page is a full-fledged landing page for a mobile application with the main elements: product description, advantages, demonstration of functionality, gallery, and feedback form.
 __________________________________________________________
 __________________________________________________________
 
