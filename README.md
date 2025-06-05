@@ -90,7 +90,6 @@ ___________________________________________________
                         <li class="nav-item">
                             <a class="nav-link a" href="#">Safety</a>
                         </li>
-
                         <li class="nav-item">
                             <a class="nav-link a_sel" href="page02.html">Login</a>
                         </li>
