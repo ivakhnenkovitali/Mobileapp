@@ -10,7 +10,6 @@ _______________________________________________________________
 ....  The page is a full-fledged landing page for a mobile application with the main elements: product description, advantages, demonstration of functionality, gallery, and feedback form.
 __________________________________________________________
 __________________________________________________________
-
 https://vitaliroyalflush.com/
 _______________________________________________________
 ________________________________________________________
