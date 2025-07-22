@@ -48,7 +48,6 @@ WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF TH
 
 ___________________________________________________
 ![dsfssfsewrwrwt](https://github.com/user-attachments/assets/e9a0ca2f-b3ee-422b-af88-aa44d0529a21)
-
 ___________________________________________________
 <!DOCTYPE html>
 <html>
