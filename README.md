@@ -1,4 +1,24 @@
 
+
+from moviepy.editor import VideoFileClip
+
+# Загрузка видео
+video_path = "/mnt/data/Mobileapp-звук.mp4"
+
+# Загружаем видео
+clip = VideoFileClip(video_path)
+
+# Убираем звук из видео и сохраняем как gif
+gif_path = "/mnt/data/Mobileapp-demo.gif"
+clip_without_audio = clip.without_audio()
+
+# Экспортируем в GIF
+clip_without_audio.write_gif(gif_path, fps=10)
+
+gif_path
+
+
+
 ___________________________________________________________________
 _______________________________________________________________
 ....  Die Seite ist ein vollwertiges Landingpage für eine mobile App mit den Hauptelementen: Produktbeschreibung, Vorteile, Funktionsdemonstration, Galerie und Feedback-Formular.
