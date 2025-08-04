@@ -1,6 +1,7 @@
 
 
-
+____________________________________________________________________
+__________________________________________________
 ___________________________________________________________________
 _______________________________________________________________
 ....  Die Seite ist ein vollwertiges Landingpage für eine mobile App mit den Hauptelementen: Produktbeschreibung, Vorteile, Funktionsdemonstration, Galerie und Feedback-Formular.
